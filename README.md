@@ -7,4 +7,5 @@ Marketing Mix Modeling (MMM)
 - https://metricasboss.com.br/artigos/google-meridian-a-ferramenta-de-marketing-mix-modeling-open-source-do-google
 - https://dp6.github.io/?utm_medium=post&utm_source=blog-dp6&utm_campaign=post-blog
 - https://blog.dp6.com.br/desmistificando-o-marketing-mix-modelling-346a72a147ac
+- https://www.youtube.com/watch?v=tsh0oSAdoBk&list=WL&index=16
 
