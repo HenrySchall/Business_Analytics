@@ -9,3 +9,5 @@ Marketing Mix Modeling (MMM)
 - https://blog.dp6.com.br/desmistificando-o-marketing-mix-modelling-346a72a147ac
 - https://www.youtube.com/watch?v=tsh0oSAdoBk&list=WL&index=16
 
+![ChatGPT Image 22 de jun  de 2025, 18_23_21](https://github.com/user-attachments/assets/bdbc275f-87fe-4639-a4fe-7ac6a8662ae9)
+
