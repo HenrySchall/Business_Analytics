@@ -4,7 +4,7 @@
 <div align="center">
 
 # Marketing
-![img1]()
+![img1](https://github.com/user-attachments/assets/b729a98d-5514-4444-9a59-b2969ec9a0bc)
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/license/HenrySchall/Artificial_Intelligence?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
