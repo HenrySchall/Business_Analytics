@@ -41,4 +41,4 @@
 ---
 ## Overview
 
-### Repository Bibliographic References:
+### Bibliographic References:
