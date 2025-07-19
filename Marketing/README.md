@@ -1,3 +1,19 @@
-Retenção, ativação, engajamento, churn, CAC, LTV, NPS, Testes A/B, TAM/SAM/SOM
+- Retenção
+- ativação
+- engajamento
+- churn
+- CAC
+- LTV
+- NPS
+- Testes A/B
+- TAM/SAM/SOM
 
-https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/marketing-analytics-estrategias-e-taticas-para-o-crescimento
+- https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/marketing-analytics-estrategias-e-taticas-para-o-crescimento
+- https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/planejamento-estrategico-de-marketing-2
+- https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/formacao-executiva-em-branding-1
+- https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/fundamentos-de-branding-1
+- https://ebaconline.com.br/mkt-start
+- https://ebaconline.com.br/crm-marketing
+- https://ebaconline.com.br/google-ads
+- https://ebaconline.com.br/marketing-para-e-commerce
+- https://ebaconline.com.br/brand-strategy
