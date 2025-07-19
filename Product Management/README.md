@@ -2,3 +2,4 @@
 - https://programas.somostera.com/product-analytics
 - https://programas.somostera.com/product-marketing
 - https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/estrategias-de-precificacao-de-produtos-e-servicos-1
+- https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/criacao-desenvolvimento-e-gestao-de-produtos-1
