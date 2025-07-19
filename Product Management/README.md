@@ -1,8 +1,4 @@
-Produtos digitais
-https://programas.somostera.com/digital-product-leadership
-
-Analise de Produtos
-https://programas.somostera.com/product-analytics
-
-Marketing de Produtos
-https://programas.somostera.com/product-marketing
+- https://programas.somostera.com/digital-product-leadership
+- https://programas.somostera.com/product-analytics
+- https://programas.somostera.com/product-marketing
+- https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/estrategias-de-precificacao-de-produtos-e-servicos-1
