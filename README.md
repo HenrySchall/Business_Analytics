@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Img](https://github.com/user-attachments/assets/af62f067-04ac-4a16-861e-7a00bb690283)
+![Img]()
 <!-- BADGES -->
 <img src="https://img.shields.io/github/license/HenrySchall/Business_Analytics?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 <img src="https://img.shields.io/github/last-commit/HenrySchall/Business_Analytics?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
