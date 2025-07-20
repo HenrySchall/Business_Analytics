@@ -30,3 +30,9 @@
 - https://www.youtube.com/watch?v=tsh0oSAdoBk&list=WL&index=16
 - https://www.udemy.com/course/how-to-create-an-advanced-mmm-in-one-day-for-your-brand/?couponCode=LOCLZDOFFPBRCTRL
 - https://www.udemy.com/course/marketing-mix-modeling-como-mensurar-retorno-tv-e-digital/?couponCode=LOCLZDOFFPBRCTRL
+
+Referencias biograficas
+- Marketing and Data Science Together the Future is ours
+- Marketing Scieeence and Big Data 
+- Marketing Analytics for Data-Rich Environments (Michel Wedel & P.K Kannan)
+- Advanced Methods for Modeling Markets
