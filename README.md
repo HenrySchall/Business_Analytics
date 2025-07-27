@@ -48,3 +48,4 @@ https://www.fiap.com.br/shift/curso/business/people-analytics-a-transformacao-do
 https://www.alura.com.br/curso-online-people-analytics-rh-orientado-dados
 https://www.sie.com.br/terra/desenvolvimento-pessoal/people-analytics
 iag.puc-rio.br/curso/people-analytics-estrategia-de-rh-baseada-em-dados/
+https://www.escoladnc.com.br/#pre%C3%A7oatualhome
