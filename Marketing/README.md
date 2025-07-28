@@ -1,4 +1,4 @@
-# Marketing Mix Model
+# Marketing Mix Model (MMM)
 
 <img width="817" height="472" alt="Captura de tela 2025-07-20 171211" src="https://github.com/user-attachments/assets/d89e4ac6-ee9b-4baf-b442-7df4f08fd0b4" />
 
@@ -28,3 +28,5 @@
 - Marketing Science and Big Data, by Pradeep Chintagunta, Dominique M. Hanssens and John R. Hauser.
 - Marketing Analytics for Data-Rich Environments, by Michel Wedel and P.K. Kannan.
 - Advanced Methods for Modeling Markets, by  Peter S. H. Leeflang, Jaap E. Wieringa, Tammo H.A Bijmolt and Koen H. Pauwels.
+
+Growth Marketing
