@@ -43,9 +43,3 @@
 - https://www.iped.com.br/programacao-e-desenvolvimento/curso/business-analytics
 - https://pm3.com.br/blog/business-analyst-o-que-faz-salario-e-qualificacoes/
 - https://www.oracle.com/br/business-analytics/what-is-business-analytics/
-
-https://www.fiap.com.br/shift/curso/business/people-analytics-a-transformacao-do-rh-online/
-https://www.alura.com.br/curso-online-people-analytics-rh-orientado-dados
-https://www.sie.com.br/terra/desenvolvimento-pessoal/people-analytics
-iag.puc-rio.br/curso/people-analytics-estrategia-de-rh-baseada-em-dados/
-https://www.escoladnc.com.br/#pre%C3%A7oatualhome
