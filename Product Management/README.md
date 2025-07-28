@@ -6,3 +6,6 @@
 - https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/estrategias-de-precificacao-de-produtos-e-servicos
 - https://educacao-executiva.fgv.br/cursos/online/mba-online/mba-em-gestao-gerenciamento-de-projetos
 - https://ebaconline.com.br/product-management
+
+Pricing
+ Revenue Management
