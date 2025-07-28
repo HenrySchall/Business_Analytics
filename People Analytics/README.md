@@ -1,8 +1,5 @@
-- https://programas.somostera.com/digital-product-leadership
-- https://programas.somostera.com/product-analytics
-- https://programas.somostera.com/product-marketing
-- https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/estrategias-de-precificacao-de-produtos-e-servicos-1
-- https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/criacao-desenvolvimento-e-gestao-de-produtos-1
-- https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/estrategias-de-precificacao-de-produtos-e-servicos
-- https://educacao-executiva.fgv.br/cursos/online/mba-online/mba-em-gestao-gerenciamento-de-projetos
-- https://ebaconline.com.br/product-management
+- https://www.fiap.com.br/shift/curso/business/people-analytics-a-transformacao-do-rh-online/
+- https://www.alura.com.br/curso-online-people-analytics-rh-orientado-dados
+- https://www.sie.com.br/terra/desenvolvimento-pessoal/people-analytics
+- iag.puc-rio.br/curso/people-analytics-estrategia-de-rh-baseada-em-dados/
+- https://www.escoladnc.com.br/#pre%C3%A7oatualhome
