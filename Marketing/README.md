@@ -1,4 +1,9 @@
-- Retenção
+# Marketing Mix Model
+
+<img width="817" height="472" alt="Captura de tela 2025-07-20 171211" src="https://github.com/user-attachments/assets/d89e4ac6-ee9b-4baf-b442-7df4f08fd0b4" />
+
+## Conceitos de Marketing 
+- Retenção = 
 - ativação
 - engajamento
 - churn
@@ -7,8 +12,6 @@
 - NPS
 - Testes A/B
 - TAM/SAM/SOM
-
-<img width="817" height="472" alt="Captura de tela 2025-07-20 171211" src="https://github.com/user-attachments/assets/d89e4ac6-ee9b-4baf-b442-7df4f08fd0b4" />
 
 <img width="782" height="448" alt="Captura de tela 2025-07-20 171220" src="https://github.com/user-attachments/assets/a468e67d-4a9e-401a-acf7-05e2a64c7d93" />
 
