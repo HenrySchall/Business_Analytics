@@ -8,4 +8,9 @@
 - https://ebaconline.com.br/product-management
 
 Pricing
- Revenue Management
+
+Revenue Management
+
+Revenue Growth
+
+Growth Analytics
