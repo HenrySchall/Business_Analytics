@@ -38,5 +38,5 @@
 
 ---
 
-## Bibliographic References:
+## Referências Bibliográficas:
 
