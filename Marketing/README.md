@@ -20,7 +20,7 @@
 
 <img width="791" height="471" alt="Captura de tela 2025-07-20 171618" src="https://github.com/user-attachments/assets/34e1482f-aebf-4a7c-8ccd-5b88760c292a" />
 
-Referencias biograficas
+## Referencias biograficas
 - Marketing and Data Science: Together the Future is Ours, by Pradeep Chintagunta, Dominique M. Hanssens and John R. Hauser. 
 - Marketing Science and Big Data, by Pradeep Chintagunta, Dominique M. Hanssens and John R. Hauser.
 - Marketing Analytics for Data-Rich Environments, by Michel Wedel and P.K. Kannan.
