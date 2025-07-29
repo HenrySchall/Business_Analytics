@@ -34,12 +34,12 @@
 - [Product Management](https://github.com/HenrySchall/Business_Analytics/tree/main/Product%20Management)
     - []()
 - [Supply Chain](https://github.com/HenrySchall/Business_Analytics/tree/main/Supply%20Chain)
-    - []()
+    - [Previsão de Demanda]()
+    - [Otimização da Capacidade]()
+    - [Otimização de Estoque]()
+    - [Plano de Materiais]()
 
 ---
 
-## Bibliographic References:
-- https://cursos.alura.com.br/business-analyst-priscilla-sun-1566757323049-p6863
-- https://www.iped.com.br/programacao-e-desenvolvimento/curso/business-analytics
-- https://pm3.com.br/blog/business-analyst-o-que-faz-salario-e-qualificacoes/
-- https://www.oracle.com/br/business-analytics/what-is-business-analytics/
+## Referências Bibliográficas:
+
