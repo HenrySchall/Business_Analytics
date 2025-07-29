@@ -34,7 +34,10 @@
 - [Product Management](https://github.com/HenrySchall/Business_Analytics/tree/main/Product%20Management)
     - []()
 - [Supply Chain](https://github.com/HenrySchall/Business_Analytics/tree/main/Supply%20Chain)
-    - []()
+    - [Previsão de Demanda]()
+    - [Otimização da Capacidade]()
+    - [Otimização de Estoque]()
+    - [Plano de Materiais]()
 
 ---
 
