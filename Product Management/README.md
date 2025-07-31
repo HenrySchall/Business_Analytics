@@ -6,6 +6,7 @@
 - https://educacao-executiva.fgv.br/cursos/live/curta-media-duracao-live/estrategias-de-precificacao-de-produtos-e-servicos
 - https://educacao-executiva.fgv.br/cursos/online/mba-online/mba-em-gestao-gerenciamento-de-projetos
 - https://ebaconline.com.br/product-management
+- https://educacao-executiva.fgv.br/cursos/online/pos-graduacao-online/pos-graduacao-em-gerenciamento-de-projetos-2
 
 Pricing
 
