@@ -24,7 +24,7 @@
 
 * Marketing = 
 * Product Management =  
-* Jurimetria = 
+* Supply Chain = 
   
 ---
 ## Índice
@@ -33,7 +33,7 @@
     - []()
 - [Product Management](https://github.com/HenrySchall/Business_Analytics/tree/main/Product%20Management)
     - []()
-- [Jurimetria]()
+- [Supply Chain]()
     - []()
 ---
 
