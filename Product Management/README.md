@@ -1,1 +1,4 @@
 # Product Management
+
+## Referências Bibliográficas:
+- 
