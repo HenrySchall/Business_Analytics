@@ -1,4 +1,7 @@
 # Supply Chain
+
+![unnamed](https://github.com/user-attachments/assets/d40ea587-9bc0-43b8-b7ea-10c5a6ad490f)
+
 ![hhh](https://github.com/user-attachments/assets/701bf2ac-b758-4228-8f6f-a926ad8d2df2)
 
 > Conjunto de todas as etapas e recursos envolvidos na produção e entrega de um produto ou serviço. Sendo assim, para ter a melhor otimização possível do processo, utiliza-se o Supply Chain Planning, que é a técnica de coordenar e otimizar todas as atividades envolvidas na cadeia de suprimentos.
