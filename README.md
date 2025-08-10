@@ -24,7 +24,7 @@
 
 * Marketing = 
 * Product Management =  
-* Jurimetria = 
+* Supply Chain = 
   
 ---
 ## Índice
