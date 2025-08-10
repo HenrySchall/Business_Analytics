@@ -10,6 +10,7 @@
 - CAC
 - LTV
 - NPS
+- Growth Marketing
 - Testes A/B
 - TAM/SAM/SOM
 
@@ -28,5 +29,3 @@
 - Marketing Science and Big Data, by Pradeep Chintagunta, Dominique M. Hanssens and John R. Hauser.
 - Marketing Analytics for Data-Rich Environments, by Michel Wedel and P.K. Kannan.
 - Advanced Methods for Modeling Markets, by  Peter S. H. Leeflang, Jaap E. Wieringa, Tammo H.A Bijmolt and Koen H. Pauwels.
-
-Growth Marketing
