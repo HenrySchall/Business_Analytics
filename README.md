@@ -1,8 +1,11 @@
-# nPlan Data Science
+# Supply Chain
 
 <div align="center">
 
 ![Img](https://github.com/user-attachments/assets/4a2d39fb-ac4a-40da-85e1-2b3bc7c59a68)
+
+![473717000-701bf2ac-b758-4228-8f6f-a926ad8d2df2](https://github.com/user-attachments/assets/2d823980-cfde-4f40-bca8-d3eb769ceb42)
+
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/license/N-Plan/Nplan-Data-Science?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -48,6 +51,7 @@ Fonte: Gartner
     - []()
 
 ---
+
 
 
 
